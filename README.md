@@ -3,15 +3,18 @@
 
 - 🌱 I’m currently learning **Tensorflow,Keras**
 
-- 💬 Ask me about **Machine learning**
+- 💬 Ask me about **Machine learning,Deep Learning**
 
 - 📫 How to reach me **shiyamer789@gmail.com**
+
+- 📄 Know about my experiences [https://shiya-mer-resume.tiiny.site](https://shiya-mer-resume.tiiny.site)
 
 - ⚡ Fun fact **I am a bibliophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shiyamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiyamer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shiya-mer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiya-mer" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shiya_mer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shiya_mer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
