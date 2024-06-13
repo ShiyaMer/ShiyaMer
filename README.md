@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shiya Mer</h1>
 <h3 align="center">A AI/ML enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Tensorflow,Keras**
+- 🌱 I’m currently learning **Object-detection**
 
-- 💬 Ask me about **Machine learning,Deep Learning**
+- 💬 Ask me about **Machine learning,Deep Learning,Natural Language Processing**
 
 - 📫 How to reach me **shiyamer789@gmail.com**
 
